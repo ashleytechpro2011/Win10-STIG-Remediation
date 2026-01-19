@@ -1,6 +1,6 @@
 # Windows 10 STIG Remediation Repository
 
-This repository documents how I secured a Windows 10 virtual machine (hosted on Azure) using [DISA’s Microsoft Windows 10 STIG v3r4]( https://www.tenable.com/audits/search?q=DISA+stig+microsoft+windows+10&sort=&page=1) guidelines. (Audit Deprecated). Through Tenable STIG scans and PowerShell scripts, I identified, remediated, and verified critical misconfigurations.
+This repository documents how I secured a Windows 10 virtual machine (hosted on Azure) using [DISA’s Microsoft Windows 10 STIG v3r4]( https://www.tenable.com/audits/search?q=DISA+stig+microsoft+windows+10&sort=&page=1) guidelines (Audit Deprecated). Through Tenable STIG scans and PowerShell scripts, I identified, remediated, and verified critical misconfigurations.
 
 ## Table of Contents
 
