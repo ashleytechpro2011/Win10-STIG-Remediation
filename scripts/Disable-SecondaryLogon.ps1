@@ -7,19 +7,19 @@
     Also sets the registry 'Start' value to 4 to ensure full STIG/Nessus compliance.
 
 .NOTES
-    Author          : Malaya M.
-    LinkedIn        : https://linkedin.com/in/malaya-m
-    GitHub          : https://github.com/malaya-m
-    Date Created    : 2025-07-20
-    Last Modified   : 2025-07-20
+    Author          : Ashley U. 
+    LinkedIn        : https://linkedin.com/in/ashleytechpro2011
+    GitHub          : https://github.com/ashleytechpro2011
+    Date Created    : 2025-07-16
+    Last Modified   : 2025-07-16
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN10-00-000175
 
 .TESTED ON
-    Date(s) Tested  : 2025-07-22
-    Tested By       : Malaya M.
+    Date(s) Tested  : 2025-07-16
+    Tested By       : Ashley U.
     Systems Tested  : Windows 10 (10.0.19045.5487)
     PowerShell Ver. : 5.1
 
