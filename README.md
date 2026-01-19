@@ -46,13 +46,13 @@ An initial STIG scan was performed on Tenable which detected numerous policy fai
 4. **Develop and Execute Scripts**  
    Create and run PowerShell scripts tailored to each STIG control to enforce compliance and harden the system.
 
-5. **Perform Post-Remediation Testing**  
+5. **Perform Post-Remediation Testing**
    - Verify registry, policy, and service state changes were applied correctly.  
    - Test system stability and critical functionality.  
    - Review Windows Event Viewer and logs for anomalies.  
    - Conduct a follow-up Nessus scan to validate that remediated STIG checks now pass.
 
-6. **Document and Iterate**  
+7. **Document and Iterate**  
    Record results, update scripts or configurations as needed, and prepare for ongoing compliance monitoring.
 
 ---
