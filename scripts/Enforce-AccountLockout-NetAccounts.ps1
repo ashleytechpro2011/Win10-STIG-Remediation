@@ -10,8 +10,8 @@
 
 .NOTES
     Author          : Malaya M.
-    LinkedIn        : https://linkedin.com/in/malaya-m
-    GitHub          : https://github.com/malaya-m
+    LinkedIn        : https://linkedin.com/in/ashleytechpro2011
+    GitHub          : https://github.com/ashleytechpro2011
     Date Created    : 2025-07-22
     Last Modified   : 2025-07-22
     Version         : 1.0
