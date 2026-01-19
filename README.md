@@ -87,7 +87,7 @@ After running each PowerShell script, a post-remediation scan was performed to v
 
 <img width="1130" height="342" alt="Post-remediation scan results" src="https://github.com/user-attachments/assets/369c3103-c8f8-4fcf-95b6-eb01941984e3" />
 
-[Post-Remediation Scan Report](https://github.com/malaya-m/Win10-STIG-Remediation/blob/main/scan-reports/Post-Remediation%20Scan%20-%20STIG%20Implementation.pdf)
+[Post-Remediation Scan Report](https://github.com/ashleytechpro2011/Win10-STIG-Remediation/blob/main/scan-reports/Post-Remediation%20Scan%20-%20STIG%20Implementation.pdf) 
 
 
 ### Impact Summary
